@@ -1,1 +1,8 @@
-Реалізував 5 патернів програмування, ідеї патернів брав з https://refactoring.guru/uk/design-patterns/creational-patterns
+Реалізував 7 патернів програмування, ідеї патернів брав з https://refactoring.guru/uk/design-patterns/creational-patterns
+1.Прототип
+2.Міст
+3.Компонувальник
+4.Ітератор
+5.Спостерігач
+6.Стратегія
+7.Шаблонний метод
